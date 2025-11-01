@@ -1,4 +1,4 @@
-## I'm Kiwi 👋
+## Welcome to my profile.
 
 <p align="center">
   <img src="https://github.com/jenna-kiwi/jenna.kiwi/blob/main/file%20github%20profile/hi.gif" alt="Kiwi Icon" />
