@@ -1,7 +1,7 @@
 ## I'm Kiwi 👋
 
 <p align="center">
-  <img src="https://jenna-kiwi.pages.dev/icon.gif" alt="Kiwi Icon" />
+  <img src="https://github.com/jenna-kiwi/jenna.kiwi/blob/main/file%20github%20profile/hi.gif" alt="Kiwi Icon" />
 </p>
 
 ---
