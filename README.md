@@ -16,9 +16,9 @@ Always curious and eager to learn new things every day!  <p align="right">
 
 ### Connect with me
 
-[![Website](https://img.shields.io/badge/-Website-d9d2e9?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://jenna-kiwi.pages.dev/)
-[![Github](https://img.shields.io/badge/-Github-d9d2e9?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jenna-kiwi)
-[![TikTok](https://img.shields.io/badge/-TikTok-d9d2e9?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@jenna.kiwi)
-[![Spotify](https://img.shields.io/badge/-Spotify-d9d2e9?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31vcon7tvxfmcy3mh3x5ppvlupsu?si=54f67a1072f34c66)
-[![Instagram](https://img.shields.io/badge/-Instagram-d9d2e9?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jenna.k1wi)
+[![Website](https://img.shields.io/badge/-Website-0e3b64?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://jenna-kiwi.pages.dev/)
+[![Github](https://img.shields.io/badge/-Github-0e3b64?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jenna-kiwi)
+[![TikTok](https://img.shields.io/badge/-TikTok-0e3b64?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@jenna.kiwi)
+[![Spotify](https://img.shields.io/badge/-Spotify-0e3b64?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31vcon7tvxfmcy3mh3x5ppvlupsu?si=54f67a1072f34c66)
+[![Instagram](https://img.shields.io/badge/-Instagram-0e3b64?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jenna.k1wi)
 
