@@ -7,7 +7,7 @@
 ---
 
 ### Bio
-Hi! I'm Kiwi, a passionate developer who loves coding, exploring new technologies, and sharing knowledge with the world. 🚀  
+Hi! I'm Kiwi, a passionate developer who loves coding, exploring new technologies, and sharing knowledge with the world.   
 Always curious and eager to learn new things every day!  <p align="right">
   <img src="https://github.com/jenna-kiwi/jenna.kiwi/blob/main/file%20github%20profile/pin.gif" alt="Kiwi pin" />
 </p>
