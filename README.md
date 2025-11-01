@@ -12,8 +12,11 @@ Always curious and eager to learn new things every day!
 
 ---
 
-### Links
-- 🌐 [Website](https://jenna-kiwi.pages.dev)  
-- 🐦 [Twitter](https://twitter.com/yourusername)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 📂 [GitHub](https://github.com/yourusername)  
+### Connect with me
+<p align="center">
+  [![Website](https://img.shields.io/badge/-Website-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://jenna-kiwi.pages.dev/)  
+  [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jenna-kiwi)  
+  [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@jenna.kiwi)  
+  [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31vcon7tvxfmcy3mh3x5ppvlupsu?si=54f67a1072f34c66)  
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jenna.k1wi)
+</p>
