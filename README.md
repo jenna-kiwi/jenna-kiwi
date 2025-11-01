@@ -4,4 +4,4 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="jenna-kiwi" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenna-kiwi)](https://github.com/jenna-kiwi/github-readme-stats)
